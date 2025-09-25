@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-entrega tarea de la clase 5
+Entrega tarea de la clase 5
 
 ## Project Organization
 
@@ -22,9 +22,7 @@ entrega tarea de la clase 5
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── notebooks          <- Aca estan las Jupiter Notebook con los ejercicios resueltos
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         tarea_clase5 and configuration for tools like black

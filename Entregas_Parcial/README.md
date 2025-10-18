@@ -13,11 +13,8 @@ Predicción de alertas térmicas mediante aprendizaje automático a partir de da
 ```
 
 ├── README.md          <- Este archivo - Informacion sobre el proyecto
-├── data               <- CARPETA DONDE SE ENCUENTRA EL SET DE DATOS
-│   ├── external       
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+├── datos              <- CARPETA DONDE SE ENCUENTRA EL SET DE DATOS
+│ 
 │
 ├── docs               <- DOCUMENTOS RELACIONADOS AL PROYECTO
 │
